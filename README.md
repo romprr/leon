@@ -1,3 +1,9 @@
+# Leon MVP
+
+**⚠️ IMPORTANT : this is a demonstration app, and is in NO WAY a working application, it was made with Gemini CLI, and i DID NOT read a single line of code since this was only made for presentation purposes.**
+
+**The project will not be updated, maintained nor properly documented.**
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
